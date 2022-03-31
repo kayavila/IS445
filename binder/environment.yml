@@ -1,0 +1,12 @@
+name: data-vis
+channels:
+  - conda-forge
+dependencies:
+  - json
+  - bqplot
+  - requests
+  - geopandas
+  - ipywidgets
+  - pandas
+  - contextily
+  - matplotlib
